@@ -1,0 +1,4 @@
+# Requirements for solving FINAL-450 questions 
+
+# Basic understanding of C++ or any other language
+# Data structure and Algorithms
