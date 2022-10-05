@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
   cout << "Welcome .";
+  cout<<"hello"<<endl;
 }
 
 /*git diff aapko batata hai 
@@ -16,3 +17,8 @@ hai staging area se .*/
 get diff --staged 
 staging area ko last 
 commit se compare karta hai*/
+
+
+/*git rm -remove file from staging area 
+and working directory .*/
+
