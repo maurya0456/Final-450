@@ -7,6 +7,6 @@ int main(){
     cin.tie(0);
     string name;
     cin>>name;
-    cout<<name<<endl;
+    cout<<name<endl;
     return 0;
 }
