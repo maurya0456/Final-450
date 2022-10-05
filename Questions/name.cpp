@@ -8,6 +8,7 @@ int main(){
     cin.tie(0);
     string name;
     cin>>name;
-    cout<<name<endl;
+    cout<<name<<" ";
+    cout<<"IS great "<<endl;
     return 0;
 }
