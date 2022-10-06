@@ -7,6 +7,7 @@ int main()
   cout<<"hello"<<endl;
 }
 
+
 /*git diff aapko batata hai 
 kya kya difference the ,given file 
 ko dusri file se compare karta hai 
